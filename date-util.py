@@ -5,3 +5,4 @@
 #function that will return the current month
 #function that will reurn timestamp
 
+#function will retur me current day
