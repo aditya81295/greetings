@@ -1,1 +1,1 @@
-print 'GM'
+print 'good afternoon1'
