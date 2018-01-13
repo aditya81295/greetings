@@ -1,2 +1,2 @@
-print 'good afternoon1'
-print 'good night'
+print 'good Nfternoon1'
+print 'good Night'
